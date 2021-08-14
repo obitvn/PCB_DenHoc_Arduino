@@ -1,0 +1,131 @@
+Added Component: Designator=A1(Arduino Nano_JUMP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(JP4-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613004143121"; VariantName = "[No Variations]"
+Added Component: Designator=C2(JP5-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613005143121"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CP1.5/3.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Description 1"; Value = "2200uF-3300uF/6,3V - 1000uF-2200uF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "1000uF/16V - 470uF => 1000uF/25V - 100uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "330uF>470uF/35V_220uF>470uF/50V_10uF>22uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "220uF => 330uF/63V - 10uF =>33uF/160 - 200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 5"; Value = "4,7uF>10uF/250V_3,3uF>10uF/400V - 2,2uF>4,7uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JDC1(DC0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LCD1(HD 16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LCD16x2A"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(TO92-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RES-1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(RES-1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SP1(SPK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Speaker Chip"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(VR-S2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=A1-3
+Added Pin To Net: NetName=NetA1_4 Pin=A1-4
+Added Pin To Net: NetName=NetA1_5 Pin=A1-5
+Added Pin To Net: NetName=NetA1_6 Pin=A1-6
+Added Pin To Net: NetName=NetA1_7 Pin=A1-7
+Added Pin To Net: NetName=ECHO Pin=A1-9
+Added Pin To Net: NetName=TRIG Pin=A1-10
+Added Pin To Net: NetName=NetA1_11 Pin=A1-11
+Added Pin To Net: NetName=NetA1_12 Pin=A1-12
+Added Pin To Net: NetName=NetA1_13 Pin=A1-13
+Added Pin To Net: NetName=NetA1_15 Pin=A1-15
+Added Pin To Net: NetName=ADO Pin=A1-21
+Added Pin To Net: NetName=SDA Pin=A1-22
+Added Pin To Net: NetName=SCL Pin=A1-23
+Added Pin To Net: NetName=VCC Pin=A1-26
+Added Pin To Net: NetName=GND Pin=A1-28
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=TRIG Pin=C1-2
+Added Pin To Net: NetName=ECHO Pin=C1-3
+Added Pin To Net: NetName=GND Pin=C1-4
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=ADO Pin=C2-2
+Added Pin To Net: NetName=SDA Pin=C2-3
+Added Pin To Net: NetName=SCL Pin=C2-4
+Added Pin To Net: NetName=VCC Pin=C2-5
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=VCC Pin=D2-2
+Added Pin To Net: NetName=NetD1_1 Pin=JDC1-1
+Added Pin To Net: NetName=GND Pin=JDC1-2
+Added Pin To Net: NetName=GND Pin=JDC1-3
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=VCC Pin=LCD1-2
+Added Pin To Net: NetName=NetLCD1_3 Pin=LCD1-3
+Added Pin To Net: NetName=NetA1_13 Pin=LCD1-4
+Added Pin To Net: NetName=NetA1_12 Pin=LCD1-5
+Added Pin To Net: NetName=NetA1_11 Pin=LCD1-6
+Added Pin To Net: NetName=NetA1_7 Pin=LCD1-11
+Added Pin To Net: NetName=NetA1_6 Pin=LCD1-12
+Added Pin To Net: NetName=NetA1_5 Pin=LCD1-13
+Added Pin To Net: NetName=NetA1_4 Pin=LCD1-14
+Added Pin To Net: NetName=VCC Pin=LCD1-15
+Added Pin To Net: NetName=GND Pin=LCD1-16
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetD2_1 Pin=Q1-3
+Added Pin To Net: NetName=SCL Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R3-1
+Added Pin To Net: NetName=NetA1_15 Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=SP1-1
+Added Pin To Net: NetName=NetD2_1 Pin=SP1-2
+Added Pin To Net: NetName=VCC Pin=VR1-1
+Added Pin To Net: NetName=NetLCD1_3 Pin=VR1-2
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component A1 Arduino Nano
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component C1 JP4
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component C2 JP5
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component C3 1000uF/16V
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component D1 Diode
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component D2 Diode
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component JDC1 Jack DC
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component LCD1 LCD 16x2A
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component Q1 2N3904
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component R1 10k
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component R2 10k
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component R3 1k
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component SP1 Speaker
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component VR1 10k
+Added Room: Name=DenHoc_Arduino

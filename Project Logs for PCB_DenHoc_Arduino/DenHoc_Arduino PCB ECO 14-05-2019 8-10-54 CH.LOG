@@ -1,0 +1,112 @@
+Removed Pin From Net: NetName=VCC Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-4
+Removed Pin From Net: NetName=NetD1_1 Pin=JDC1-1
+Removed Pin From Net: NetName=GND Pin=JDC1-2
+Removed Pin From Net: NetName=GND Pin=JDC1-3
+Removed Pin From Net: NetName=VCC Pin=LCD1-2
+Removed Pin From Net: NetName=NetA1_13 Pin=LCD1-4
+Removed Pin From Net: NetName=VCC Pin=LCD1-15
+Removed Pin From Net: NetName=GND Pin=LCD1-16
+Removed Pin From Net: NetName=VCC Pin=VR1-1
+Removed Pin From Net: NetName=GND Pin=VR1-3
+Removed Member From Class: ClassName=DenHoc_Arduino Member=C3
+Removed Member From Class: ClassName=DenHoc_Arduino Member=JDC1
+Removed Member From Class: ClassName=DenHoc_Arduino Member=LCD1
+Removed Member From Class: ClassName=DenHoc_Arduino Member=VR1
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Added Component: Designator=D3(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(KF2-3.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6911031100xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 October 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "691103110002"; VariantName = "[No Variations]"
+Added Component: Designator=J2(KF3-5.08)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6911031100xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 October 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "691103110003"; VariantName = "[No Variations]"
+Added Component: Designator=J3(KF3-5.08)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6911031100xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 October 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "691103110003"; VariantName = "[No Variations]"
+Added Component: Designator=M1(5V 700mA 3.5W AC DC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(TO92-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(RES-1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RL1(RL_SPDT_10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=J3-1
+Added Pin To Net: NetName=NetA1_13 Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=VCC Pin=M1-3
+Added Pin To Net: NetName=GND Pin=M1-4
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q2-3
+Added Pin To Net: NetName=NetD1_1 Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=NetD1_1 Pin=RL1-4
+Added Pin To Net: NetName=VCC Pin=RL1-5
+Added Pin To Net: NetName=NetA1_14 Pin=A1-14
+Added Pin To Net: NetName=NetA1_14 Pin=R5-2
+Added Net: Name=NetA1_14
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R5-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=Q2-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=M1-2
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=M1-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=RL1-2
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=RL1-1
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=RL1-3
+Added Net: Name=NetJ2_3
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component D3 Diode
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component J1 KF2
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component J2 KF3
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component J3 Cam Bien Khoang Cach
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component M1 220-5VDC
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component Q2 2N3904
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component R4 1k
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component R5 10k
+Added Member To Class: ClassName=DenHoc_Arduino Member=Component RL1 Relay 10A/12V
+Added Room: Name=DenHoc_Arduino
